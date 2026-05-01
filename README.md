@@ -1,7 +1,5 @@
 # Web Calculator 🧮
 
-**[🚀 View Live Demo](https://calculator-gray-chi-37.vercel.app/)**
-
 A sleek and interactive web-based calculator built with HTML, CSS, and JavaScript. This project was developed to demonstrate fundamental frontend development skills, focusing on functional logic, UI design, and clean code practices.
 
 ## 🚀 Features
