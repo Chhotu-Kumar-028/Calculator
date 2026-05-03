@@ -1,5 +1,8 @@
 # Web Calculator 🧮
 
+## 🔗 Live Demo
+Check out the live version of the project here: **[calculator-gray-chi-37.vercel.app](https://calculator-gray-chi-37.vercel.app/)**
+
 A sleek and interactive web-based calculator built with HTML, CSS, and JavaScript. This project was developed to demonstrate fundamental frontend development skills, focusing on functional logic, UI design, and clean code practices.
 
 ## 🚀 Features
@@ -31,10 +34,7 @@ To run this project locally, simply follow these steps:
    ```
 3. **Open the application:**
    Open the `index.html` file in any modern web browser to use the calculator.
-
-## 🔗 Live Demo
-Check out the live version of the project here: **[calculator-gray-chi-37.vercel.app](https://calculator-gray-chi-37.vercel.app/)**
-
+   
 ## 💡 What I Learned
 Developing this project helped me strengthen my understanding of:
 - DOM manipulation and event handling in JavaScript.
